@@ -43,6 +43,6 @@ Let's connect and explore the world of technology together! Feel free to reach o
 <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href=""></a> pawankr90607@gmail.com<br><br>
 <a><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a  href="https://discord.com/channels/@me/676841633337311232">pawankumarverma</a> <br><br>
 <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://github.com/Pawan7477">pawan7477</a> <br><br>
-<a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="www.linkedin.com/in/pawan-kumar-verma-812523255">PAWAN KUMAR VERMA</a> <br><br>
+<a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/pawan-kumar-verma-812523255/">PAWAN KUMAR VERMA</a> <br><br>
 
 Looking forward to connecting with fellow enthusiasts and innovators! 😊✨
