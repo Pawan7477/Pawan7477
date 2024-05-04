@@ -15,7 +15,7 @@ I'm PAWAN KUMAR VERMA, a Computer Science Engineering student passionate about e
 - 🌐 Experience in Digital Marketing.
 - 💼 Worked on various live projects, gaining practical experience in software development.
 - 💻 Passionate about programming
-- 🐍 Intermediate knowledge of C++, C , Wordpress.
+- 🐍 Intermediate knowledge of C++, C , Wordpress ,php.
 
 - ➡ Currently working on my MERN skills.
 
