@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
-I'm **PAWAN KUMAR VERMA**, a **Computer Science Engineering** student passionate about exploring the vast landscape of technologies that surround us. 🌟 Currently, I'm on an exciting journey, delving into various aspects of **data science, algorithms, and emerging technologies**.
+I'm **PAWAN KUMAR VERMA**, a **Computer Science Engineering** student passionate about exploring the vast landscape of technologies that surround us. 🌟 Currently, I'm on an exciting journey, delving into various aspects of **data science, machine learning, and artificial intelligence**.
 
 ## About Me
 
@@ -11,31 +11,30 @@ I'm **PAWAN KUMAR VERMA**, a **Computer Science Engineering** student passionate
 
 ## Skills and Experience
 
-- 🚀 Proficient in **Data Science**, **Machine Learning**, and **Statistical Analysis**.
-- 🌐 Experience in **Data Visualization** and **Predictive Modeling**.
+- 🚀 Proficient in **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
+- 📊 Experience in **Data Visualization, Predictive Modeling, and Statistical Analysis**.
 - 🌟 Worked on various **live projects**, gaining practical experience in **data analysis**.
 - 📈 Strong command over **Python, SQL, and Data Processing Libraries**.
-- 🖊️ Knowledgeable in **Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn**.
-- 💡 Familiar with **Big Data Technologies, Power BI, and Tableau**.
+- 🖊️ Knowledgeable in **Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, and Keras**.
+- 💡 Familiar with **Big Data Technologies, Power BI, Tableau, and Web Scraping**.
 
 ## Tech Stack
 
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
-<a><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=seaborn&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+<a><img src="https://img.shields.io/badge/BeautifulSoup-3C3C3C?style=for-the-badge&logo=beautifulsoup&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Scrapy-88B04B?style=for-the-badge&logo=scrapy&logoColor=white"></a>
 
 ## Connect with Me
 
